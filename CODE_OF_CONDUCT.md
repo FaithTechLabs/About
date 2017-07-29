@@ -58,9 +58,7 @@ We will always be grounded in our faith and beliefs. Because of our beliefs we w
 > We love because he first loved us.
 > [1 John 4:19 NIV](https://www.bible.com/bible/111/1jn.4.19)
 
-Faith is a journey and we want to support you wherever you are on that path. We understand if you do not share our beliefs and still welcome you to join us. We will not harrass you, but some of our activities may make you feel uncomfortable.
-
-Participation is voluntary?
+Faith is a journey and we want to support you wherever you are on that path. We want to help Christians deepen their faith while doing good. We understand if you do not share our beliefs and still welcome you to join us. We will not harrass you, but some of our activities may make you feel uncomfortable. You may find our community is not for you and that is okay.
 
 Unless otherwise stated, we are not here to debate or defend our beliefs. If you would like to do so we will happily connect you with a local church or more approriate venue.
 
