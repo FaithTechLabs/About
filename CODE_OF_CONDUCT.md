@@ -11,7 +11,7 @@ orientation.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment
+Examples of behaviour that contributes to creating a positive environment
 include:
 
 * Being friendly and patient
@@ -22,7 +22,7 @@ include:
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+Examples of unacceptable behaviour by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
 advances
@@ -36,13 +36,13 @@ advances
 ## Our Responsibilities
 
 FaithTech is responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+behaviour and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behaviour.
 
 We have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any individual for other behaviors that they deem inappropriate,
+permanently any individual for other behaviours that they deem inappropriate,
 threatening, offensive, or harmful.
 
 ## Our Faith
@@ -66,12 +66,12 @@ Should you participate in our community we will share our hope, prayers, worship
 
 ## Enforcement
 
-If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via [conduct@faithtech.com](mailto:conduct@faithtech.com). All reports will be handled with discretion.
+If you experience or witness unacceptable behaviour — or have any other concerns — please report it by contacting us via [conduct@faithtech.com](mailto:conduct@faithtech.com). All reports will be handled with discretion.
 
 In your report please include:
 
 * Your contact information.
-* Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.
+* Names (real, nicknames, usernames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.
 * Any additional information that may be helpful.
 
 After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
