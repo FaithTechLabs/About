@@ -47,6 +47,9 @@ threatening, offensive, or harmful.
 
 ## Our Faith
 
+> For it is by grace you have been saved, through faith - and this is not from yourselves, it is the gift of God - not by works, so that no one can boast. For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.
+> [Ephesians 2:8-10](https://www.bible.com/bible/111/EPH.2.8-10)
+
 We will always be grounded in our faith and beliefs. Because of our beliefs we will always be open and loving:
 
 > Do everything in love
