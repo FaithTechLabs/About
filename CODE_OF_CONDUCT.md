@@ -50,7 +50,7 @@ threatening, offensive, or harmful.
 We will always be grounded in our faith and beliefs. Because of our beliefs we will always be open and loving:
 
 > Do everything in love
-> [1 Corithians 16:14 NIV](https://www.bible.com/bible/111/1co.16.14)
+> [1 Corinthians 16:14 NIV](https://www.bible.com/bible/111/1co.16.14)
 
 > This is my command: Love each other.
 > [John 15:17 NIV](https://www.bible.com/bible/111/jhn.15.17)
@@ -60,9 +60,9 @@ We will always be grounded in our faith and beliefs. Because of our beliefs we w
 
 Faith is a journey and we want to support you wherever you are on that path. We want to help Christians deepen their faith while doing good. We understand if you do not share our beliefs and still welcome you to join us. We will not harrass you, but some of our activities may make you feel uncomfortable. You may find our community is not for you and that is okay.
 
-Unless otherwise stated, we are not here to debate or defend our beliefs. If you would like to do so we will happily connect you with a local church or more approriate venue.
+Unless otherwise stated, we are not here to debate or defend our beliefs. If you would like to do so we will happily connect you with a local church or more appropriate venue.
 
-Should you participate in our community we will share our hope, prayers, worship and beliefs with you. These are not meant to descriminate and exclude, but instead to help support our community and deepen their faith.
+Should you participate in our community we will share our hope, prayers, worship and beliefs with you. These are not meant to discriminate and exclude, but instead to help support our community and deepen their faith.
 
 ## Enforcement
 
@@ -80,7 +80,7 @@ After filing a report, a representative will contact you personally, review the 
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, and the [Open Code of Conduct][opencodeofconduct]
 
-The original version of the [Contributor Convenant][homepage] is available at [http://contributor-covenant.org/version/1/4][version].
+The original version of the [Contributor Covenant][homepage] is available at [http://contributor-covenant.org/version/1/4][version].
 
 [opencodeofconduct]: http://todogroup.org/opencodeofconduct/#fetch/opensource@github.com
 [homepage]: http://contributor-covenant.org
