@@ -7,4 +7,6 @@ We help grow new technologies and tools that advance the kingdom of God. We beli
 
 Check out our repos and [Code of Conduct](https://github.com/FaithTechLabs/About/blob/master/CODE_OF_CONDUCT.md).
 
+Interested in some handy links for getting started from our wider community? Check out https://github.com/Indigitous-Hack/docs
+
 Thanks for stopping by.
